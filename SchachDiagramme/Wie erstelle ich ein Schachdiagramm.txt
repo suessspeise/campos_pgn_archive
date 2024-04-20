@@ -1,6 +1,0 @@
-1. Fritz oeffnen
-2. Einfuegen (neben Start, Brett, Training)
-3. Unter ueberschreiben: Stellung aufbauen
-4. Brett leeren, Stellung aufbauen
-5. Snipping Tool Programm starten um Bild zu machen
-6. Diagramm unter C:\Users\User\Pictures\SchachDiagramme (Bestaetigen) speichern
